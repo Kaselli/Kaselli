@@ -1,6 +1,10 @@
-# TITOLO
-asd
-## BIO
+# BIO
+Hello.
+My name is Lorenzo Caselli, I am a beginner programmer currently studiying @ [THE SIGN](https://thesign.academy/).
+
+## WORKING ON
+- School projects mainly
+- Participating in Pisa Global Game Jam
 
 ## WORKS
 - work 1
