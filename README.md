@@ -11,7 +11,8 @@ Tiny experience using Godot.
 - School projects mainly
 
 ## MY WORKS
-- [The Pond](https://globalgamejam.org/2023/games/pond-1) - [Trailer](https://youtu.be/_8rHB52a7ck) - Made at Global Game Jam Pisa 2023
+- [The Pond](https://globalgamejam.org/2023/games/pond-1) - [Trailer](https://youtu.be/_8rHB52a7ck) - Made at Global Game Jam Pisa 2023 (Unity)
+- [SuperScary](https://globalgamejam.org/games/2024/superscary-7) - Made at Global Game Jam Pisa 2024 (Unreal Engine)
 
 ## WHERE YOU CAN FIND ME
 
