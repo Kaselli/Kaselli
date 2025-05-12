@@ -13,5 +13,7 @@ I am currently learning Unity and C# for school and learning Unreal engine for m
 - [SuperScary](https://globalgamejam.org/games/2024/superscary-7) - Made at Global Game Jam Pisa 2024 (Unreal Engine)
 - [Magic Bubble Man](https://globalgamejam.org/games/2025/magic-bubble-man-0) - Made at Global Game Jam Pisa 2025 (Unity)
 
+- More games done for school work @ TheSign Academy (of which I don't own the license).
+
 ## WHERE YOU CAN FIND ME
 lore.caselli97[at]gmail[dot]com
